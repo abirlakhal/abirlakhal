@@ -1,4 +1,4 @@
-<h5 align="center"><img src="https://miro.medium.com/v2/resize:fit:1400/1*z8-MhqVp0wtdrnCVUWNKWw.gif" alt="My GIF" /></h5>
+<div align="center"><img src="https://miro.medium.com/v2/resize:fit:1400/1*z8-MhqVp0wtdrnCVUWNKWw.gif" alt="My GIF" /></div>
 
 <h1 align="center">Hi 👋, I'm ABIR</h1>
 <h3 align="center">🚀 From code to data, I build software that empowers decisions and turns analysis into action.</h3>
